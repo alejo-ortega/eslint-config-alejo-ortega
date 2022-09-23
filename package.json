@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-alejo-ortega",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.38.0",
     "@typescript-eslint/parser": "^5.38.0",
